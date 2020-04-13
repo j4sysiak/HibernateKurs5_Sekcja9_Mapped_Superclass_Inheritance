@@ -17,6 +17,10 @@ public abstract class Investment {
 	@Column(name = "PURCHASE_DATE")
 	protected Date purchaseDate;
 
+	
+	
+	
+	
 	public String getName() {
 		return name;
 	}
